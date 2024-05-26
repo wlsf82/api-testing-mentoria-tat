@@ -1,0 +1,16 @@
+{
+  "name": "api-testing-mentoria-tat",
+  "version": "1.0.0",
+  "description": "TBD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Walmyr <wlsf82@gmail.com> (https://walmyr.dev/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.10.0",
+    "cypress-plugin-api": "^2.11.1"
+  }
+}
